@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="a">Amount</string>
+    <string name="p">pax</string>
+    <string name="service">Service Charge</string>
+    <string name="gst">GST</string>
+    <string name="display">Display</string>
+    <string name="reset">Reset</string>
+    <string name="calculate">Calculate</string>
+
+</resources>
